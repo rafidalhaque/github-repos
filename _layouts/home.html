@@ -39,13 +39,14 @@
             {{ content }}
           </div>
         {% endunless %}
-
+<!--Uncomment It if you want to show your interest topics list on homepage --> 
+<!-- 
         {% include projects.html %}
 
         {% if site.topics %}
           {% include interests.html %}
         {% endif %}
-
+-->
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
         {% endunless %}
