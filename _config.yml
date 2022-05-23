@@ -24,7 +24,7 @@ projects:
   limit: 4
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
      - personal-website-master
      - downloadanybot
@@ -35,9 +35,9 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: rafidalhaqueofficial
+#   facebook: rafidalhaqueofficial
   # hackerrank: your_username
-  instagram: rafidalhaqueofficial
+#   instagram: rafidalhaqueofficial
   # keybase: your_username
   linkedin: rafidalhaque
   # mastodon: your_username
